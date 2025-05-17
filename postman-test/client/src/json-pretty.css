@@ -1,0 +1,20 @@
+/* JSON Syntax Highlighting */
+.key { 
+    color: #800080; /* Purple */
+  }
+  
+  .string { 
+    color: #008000; /* Green */
+  }
+  
+  .number { 
+    color: #0000ff; /* Blue */
+  }
+  
+  .boolean { 
+    color: #ff8c00; /* Orange */
+  }
+  
+  .null { 
+    color: #808080; /* Gray */
+  }
